@@ -1,5 +1,6 @@
 # probability-models
 
+## Test Suites Generator
 
 Here is an implementation of the AETG algorithm in C++. I created a class named tupleT2 to store the value that forms a pair with another. All values are set as not found by default since in the beginning no pairs have been covered yet. There is also a class named t2Table that holds the data structure (hash table) containing all the interaction pairs. This is an example of how it abstractly looks for 3^4:
 
